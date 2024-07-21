@@ -1,0 +1,9 @@
+Flask
+flask-ngrok 
+pandas
+scikit-learn
+nltk
+scipy
+matplotlib
+seaborn
+wordcloud
